@@ -25,4 +25,6 @@ public class ProducerController {
         return "Published Successfully!";
     }
 
+    //Passing Complex object to Topic i.e json, for this we need to create Kafkaconfig
+
 }
